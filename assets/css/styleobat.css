@@ -1,0 +1,10 @@
+body{
+	 background:	#C3FDB8;
+}
+.container {
+		bottom:20px;
+}
+.contact hr{
+	width: 250px;
+	border-top: 4px solid 	#000000;
+}
